@@ -1,0 +1,14 @@
+.theBox {
+    background-color: black;
+    width: 100px;
+    height: 100px;
+    color: green;
+}
+.btn {
+    display: block;
+    background-color: red;
+}
+body{
+    display: flex;
+    flex-wrap: wrap;
+}
